@@ -1,5 +1,5 @@
 # RIME_Double_GB
-國標雙拼方案
+應用於RIME輸入法的國標雙拼方案
 
 Q q
 ​ ia
