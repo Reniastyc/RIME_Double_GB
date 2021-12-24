@@ -109,7 +109,7 @@ translator:
     - xform/(\w)c/$1ao/
     - xform/([dtgkhvuirzcs])v/$1ui/
     - xform/(\w)b/$1ei/
-    - xform/(\w)m/$1iao/
+    - xform/(\w)m/$1iaao/
     - xform/(\w)f/$1an/
     - xform/(\w)h/$1eng/
     - xform/(\w)j/$1ing/
