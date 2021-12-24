@@ -106,7 +106,7 @@ translator:
     - xform/([bpmnljqxy])l/$1in/
     - xform/(\w)z/$1un/
     - xform/(\w)x/$1ue/
-    - xform/(\w)c/$1ao/
+    - xform/(\w)c/$1aao/
     - xform/([dtgkhvuirzcs])v/$1ui/
     - xform/(\w)b/$1ei/
     - xform/(\w)m/$1iaao/
